@@ -1,3 +1,4 @@
 Prueba para git
 Esta es una nueva linea
-Error de codigo
+Codigo funcional
+Nueva linea de codigo
