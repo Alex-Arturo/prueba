@@ -1,2 +1,1 @@
-for i in range():
-    print(i)
+print([task for task in tasks])
